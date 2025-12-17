@@ -82,6 +82,8 @@ External Data Sources (Gov APIs, Open Data)
 ```
 
 ---
+<img width="1878" height="567" alt="Screenshot 2025-12-17 220049" src="https://github.com/user-attachments/assets/95edf730-3383-41d4-a0c3-2d2704b58018" />
+
 
 ## 🧰 Tech Stack
 
